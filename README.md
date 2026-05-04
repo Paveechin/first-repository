@@ -18,7 +18,7 @@ I installed 3 tools:
 
 ### Issue 1: [How to add the extension tools]
 - **Problem:** I had no idea where to find the extension panel and how to add Claude Code and Codex on Cursor
-- **Soluion:** I searched on the internet and learned through YouTube
+- **Solution:** I searched on the internet and learned through YouTube
 
 ### Issue 2: [How to create a Github repository]
 - **Problem:** I was stuck on how to use GitHub and create a GitHub repository
